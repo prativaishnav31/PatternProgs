@@ -9,6 +9,8 @@ for i in range(0,r):
         print(j,end=" ")
     print()
 
+#this is for_loop program which print pyramid using star
+
 r = int(input("enter the raw :"))
 
 for i in range(0,r):
